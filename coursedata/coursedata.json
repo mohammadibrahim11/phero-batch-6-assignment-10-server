@@ -1,0 +1,275 @@
+[
+    {
+      "id": "635839e9f577f835dd63c2a6",
+      "category_id": "01",
+      "price": "$3,787.25",
+      "picture": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+      "total_student": 33,
+      "course_name": "Html",
+      "duration": "4_lessons/12 week",
+      "ratings": 3,
+    
+      "phone": "+1 (884) 491-3014",
+      "description": " Introduction to HTML Complete Beginner to Expert Course is perfect for anyone who wants to learn HTML or learn more about HTML.  HTML provides the structure for EVERY WEBSITE and its the foundation for everything you see on the web.  Browsers read HTML and render it out for web users.  If you are looking for a starting point to create digital content this course is for you.In this course you will learn everything you need to know about HTML, and HTML5.  It’s packed full of challenges and exercises to get you writing HTML quickly.  As you follow the lessons source code is also included to get you started quickly and easily.  The course will provide you everything you need to get started with HTML and challenge you to learn HTML.Core focus of this course is just HTML, learn to code HTML in just a few hours.  You will be amazed at how easily you will be able to write your own HTML.Straight to the point lessons with no wasted time, watch and learn.  Then practice what you learned to effectively learn HTML.  Hands on practice with a fast paced easy to follow lesson plan.  By the end of the course you will have the skills and knowledge to write your own HTML, and will be on the path for more advanced web development skills.",
+
+      "schedule": "2015-09-16T04:08:28 -06:00",
+      "tags": [
+        "in",
+        "fugiat",
+        "sunt",
+        "fugiat",
+        "minim",
+        "consequat",
+        "ea"
+      ],
+      "instructor": [
+        {
+          "id": 0,
+          "name": "Dora Meadows",
+          "email": "bertawade@rubadub.com"
+        },
+        {
+          "id": 1,
+          "name": "Jessica Watson"
+        },
+        {
+          "id": 2,
+          "name": "Elvira Bonner"
+        }
+      ]
+    },
+    {
+      "id": "635839e9f008f84b378aaed9",
+      "category_id": "02",
+      "price": "$3,070.17",
+      "picture": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "total_student": 31,
+      "course_name": "CSS",
+      "duration": "4_lessons/12 week",
+      "ratings": 5,
+   
+      "phone": "+1 (834) 596-2422",
+      "description": "This course breaks down the fundamentals of CSS into digestible, easy to understand pieces. Over the next few modules, you'll learn how the core aspects of CSS work and how to use them effectively in your projects. Use the menu pane by the Learn CSSlogo to navigate the modules.You'll learn CSS fundamentals like the box model, cascade and specificity, flexbox, grid and z-index. And, along with these fundamentals, you'll learn about functions, color types, gradients, logical properties and inheritance to make you a well-rounded front-end developer, ready to take on any user interface.",
+      "tags": [
+        "aute",
+        "mollit",
+        "aliquip",
+        "eu",
+        "consectetur",
+        "occaecat",
+        "labore"
+      ],
+      "instructor": [
+        {
+          "id": 0,
+          "name": "Steele Tucker",
+          "email": "brittanyphillips@rubadub.com"
+        },
+        {
+          "id": 1,
+          "name": "Mann Harvey"
+        },
+        {
+          "id": 2,
+          "name": "Clements Bright"
+        }
+      ]
+    },
+    {
+      "id": "635839e91d81c12645746f65",
+      "category_id": "03",
+      "price": "$1,893.40",
+      "picture": "https://images.unsplash.com/photo-1555952494-efd681c7e3f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+
+   
+      "total_student": 37,
+      "course_name": "CSS Framwork",
+      "duration": "4_lessons/12 week",
+      "ratings": 3,
+     
+      "phone": "+1 (808) 538-2995",
+      "description": "A CSS framework is a prepped and ready-to-use CSS library (Cascading Style Sheets). The stylesheets collection makes the job of a UI developer easier.Rather than starting every project from scratch, a CSS framework gives them tools to quickly create a user interface that they repeat and tweak during a project. They also enable the creation of more standards-compliant websites.While quite challenging to use or ambiguous for beginners, senior developers who know the CSS framework sites’ descriptions and buzzwords find them extremely useful. ",
+      "schedule": "2022-01-09T07:17:11 -06:00",
+      "tags": [
+        "ex",
+        "velit",
+        "occaecat",
+        "laboris",
+        "cillum",
+        "ipsum",
+        "enim"
+      ],
+      "instructor": [
+        {
+          "id": 0,
+          "name": "JavaScript",
+          "email": "ofeliahodges@rubadub.com"
+        },
+        {
+          "id": 1,
+          "name": "Luann Ramsey"
+        },
+        {
+          "id": 2,
+          "name": "Dionne Atkinson"
+        }
+      ]
+    },
+    {
+      "id": "635839e9c0f93f97a15c3466",
+      "category_id": "04",
+      "price": "$1,340.83",
+      "picture": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    
+      "total_student": 22,
+      "course_name": "JavaScript",
+      "duration": "4_lessons/12 week",
+      "ratings": 3,
+     
+      "phone": "+1 (899) 532-3773",
+      "description": "JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles.JavaScript runs on the client side of the web, which can be used to design / program how the web pages behave on the occurrence of an event. JavaScript is an easy to learn and also powerful scripting language, widely used for controlling web page behavior.Contrary to popular misconception, JavaScript is not Interpreted Java. In a nutshell, JavaScript is a dynamic scripting language supporting prototype based object construction. The basic syntax is intentionally similar to both Java and C++ to reduce the number of new concepts required to learn the language. Language constructs, such as if statements, for and while loops, and switch and try ... catch blocks function the same as in these languages (or nearly so).",
+      "schedule": "2018-01-06T01:29:05 -06:00",
+      "tags": [
+        "Lorem",
+        "cupidatat",
+        "deserunt",
+        "pariatur",
+        "pariatur",
+        "laboris",
+        "in"
+      ],
+      "instructor": [
+        {
+          "id": 0,
+          "name": "Sargent Sharpe",
+          "email": "lynnlara@rubadub.com"
+        },
+        {
+          "id": 1,
+          "name": "Hamilton Murray"
+        },
+        {
+          "id": 2,
+          "name": "Hess Ramirez"
+        }
+      ]
+    },
+    {
+      "id ": "635839e9192bf7ae67b03c8f",
+      "category_id": "05",
+      "price": "$2,233.31",
+      "picture": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+   
+      "total_student": 27,
+      "course_name": "React",
+      "duration": "4_lessons/12 week",
+      "ratings": 4,
+     
+      "phone": "+1 (990) 421-3442",
+      "description": "React is a user interface development library run by Meta (formerly Facebook) and an open-source developer community that has been gaining traction in recent years.It is based on JavaScript and used for website development by countless organizations worldwide, which also means that there is a lot of competition when it comes to hiring talented React developers.If you’re looking to hire your next React developer but don’t know where to start, this article is for you.We’ll explain how to use skills tests to make the applicant-evaluation process effortless, which tests to pick (hint: always include a React test), and the benefits of React. ",
+      "schedule": "2021-08-04T01:17:24 -06:00",
+      "tags": [
+        "labore",
+        "cupidatat",
+        "aliquip",
+        "incididunt",
+        "ea",
+        "nulla",
+        "ea"
+      ],
+      "instructor": [
+        {
+          "id": 0,
+          "name": "Brewer Salas",
+          "email": "nelsonfrench@rubadub.com"
+        },
+        {
+          "id": 1,
+          "name": "Leila Evans"
+        },
+        {
+          "id": 2,
+          "name": "Frances Kemp"
+        }
+      ]
+    },
+    {
+      "id": "635839e93fa933e1b3859ac2",
+      "category_id": "06",
+      "price": "$2,134.58",
+      "picture": "https://blockchainsimplified.com/blog/what-is-google-firebase/what-is-google-firebase-definition.png",
+      "total_student": 39,
+      "course_name": "Firebase",
+      "duration": "4_lessons/12 week",
+      "ratings": 5,
+     
+      "phone": "+1 (874) 532-2033",
+      "description": "In the present era, user authentication is one of the most important requirements for Android apps. It is essential to authenticate users, and it is much harder if we have to write all this code on our own. This is done very easily with the help of Firebase.Firebase UI Authentication is a way to add a complete sign-in system to our app, where Firebase provides user interface to them. Firebase UI provides a drop-in auth solution which is used to implement authentication on mobile devices and websites.Firebase UI can be easily customized to fit with the rest of our app's visual style. It is open-source, so we are not constrained in modifying the user experience to meet our apps need.",
+      "schedule": "2020-03-01T12:35:20 -06:00",
+      "tags": [
+        "ea",
+        "ad",
+        "laborum",
+        "ea",
+        "officia",
+        "veniam",
+        "minim"
+      ],
+      "instructor": [
+        {
+          "id": 0,
+          "name": "Browning Duncan",
+          "email": "adrienneroth@rubadub.com"
+        },
+        {
+          "id": 1,
+          "name": "Tami Gibson"
+        },
+        {
+          "id": 2,
+          "name": "Stuart Solomon"
+        }
+      ]
+    },
+    {
+      "id": "635839e916a2553babad454c",
+      "category_id": "07",
+      "price": "$3,881.25",
+      "picture": "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      
+      "total_student": 40,
+      "course_name": "Database",
+      "duration": "4_lessons/12 week",
+      "ratings": 4,
+    
+      "phone": "+1 (932) 521-2348",
+      "description": "A database is an organized collection of structured information, or data, typically stored electronically in a computer system. A database is usually controlled by a database management system (DBMS). Together, the data and the DBMS, along with the applications that are associated with them, are referred to as a database system, often shortened to just database.Data within the most common types of databases in operation today is typically modeled in rows and columns in a series of tables to make processing and data querying efficient. The data can then be easily accessed, managed, modified, updated, controlled, and organized. Most databases use structured query language (SQL) for writing and querying data",
+
+      "schedule": "2021-12-08T06:35:19 -06:00",
+      "tags": [
+        "laboris",
+        "in",
+        "labore",
+        "minim",
+        "ad",
+        "eiusmod",
+        "esse"
+      ],
+      "instructor": [
+        {
+          "id": 0,
+          "name": "Laura Miller",
+          "email": "johnhuffman@rubadub.com"
+        },
+        {
+          "id": 1,
+          "name": "Nicole Weaver"
+        },
+        {
+          "id": 2,
+          "name": "Sims Juarez"
+        }
+      ]
+    }
+
+  ]

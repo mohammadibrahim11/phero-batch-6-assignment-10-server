@@ -1,0 +1,34 @@
+[
+    {
+      "id": "01",
+      "category_name": "html"
+    },
+    {
+      "id": "02",
+      "category_name": "Css"
+    },
+    {
+      "id": "03",
+      "category_name": "Css FrameWork"
+    },
+    {
+      "id": "04",
+      "category_name": "Javascript"
+    },
+    {
+      "id": "05",
+      "category_name": "React"
+    },
+    {
+      "id": "06",
+      "category_name": "Firebase"
+    },
+    {
+      "id": "07",
+      "category_name": "Database"
+    },
+    {
+      "id": "08",
+      "category_name": "all courses"
+    }
+  ]
