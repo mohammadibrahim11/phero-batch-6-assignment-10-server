@@ -9,6 +9,10 @@ const courses = require('./coursedata/coursedata.json');
 
 const categories = require('./coursedata/categories.json');
 
+app.get('/',(req,res)=>{
+    res.send('Yes working!');
+    
+});
 
 app.get('/courses',(req,res)=>{
     res.send(courses);
@@ -16,7 +20,7 @@ app.get('/courses',(req,res)=>{
 });
 
 app.get('/courses/:id',(req,res)=>{
-    const id = req.params.id;
+    const id = parseInt(req.params.id); // id url er
     const selectedCourses = courses.find(c => c.id===id);
     res.send(selectedCourses);
 })
@@ -43,7 +47,7 @@ app.get('/category/:id', (req, res) => {
 
 
 
-app.listen(5000, ()=>console.log("server running on port 5000"));
+app.listen(5000, ()=>console.log("server is running on port 5000"));
 
 //export the express API
 

@@ -1,30 +1,30 @@
 [
     {
-      "id": "01",
+      "id": 1,
       "category_name": "html"
     },
     {
-      "id": "02",
+      "id": 2,
       "category_name": "Css"
     },
     {
-      "id": "03",
+      "id": 3,
       "category_name": "Css FrameWork"
     },
     {
-      "id": "04",
+      "id": 4,
       "category_name": "Javascript"
     },
     {
-      "id": "05",
+      "id": 5,
       "category_name": "React"
     },
     {
-      "id": "06",
+      "id": 6,
       "category_name": "Firebase"
     },
     {
-      "id": "07",
+      "id":7,
       "category_name": "Database"
     }
  
